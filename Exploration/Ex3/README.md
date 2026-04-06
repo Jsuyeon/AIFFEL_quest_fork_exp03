@@ -19,7 +19,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 
-        - accurcay 부분을 새롭게 수정하여서 정확도를 올리려고 시도
+        - accurcay 부분을 새롭게 수정하여서 정확도를 올리려고 시도한 것이 가장 핵심적이라고 생각했습니다
         - <img width="633" height="171" alt="image" src="https://github.com/user-attachments/assets/fa292e06-f859-4327-9aeb-4f68255a738d" />
 
         
@@ -29,7 +29,8 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - accuracy 를 추가한 부분이 나만의 시도를 했던 부분이라고 생각
+        - accuracy 를 추가한 부분이 나만의 시도를 했던 부분이라고 생각했습니다
+        - 이 부분을 저도 수정해야겠다고 느낀 코드였습니다
         - <img width="338" height="119" alt="image" src="https://github.com/user-attachments/assets/93cf8828-fd09-4ded-b924-abb47506e31f" />
 
         
@@ -38,6 +39,7 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - 전체적인 흐름을 잘 알 수 있는 흐름으로 판단했습니다
         - <img width="723" height="177" alt="image" src="https://github.com/user-attachments/assets/af226931-a3ea-405f-ba0c-858bae44d578" />
 
         
@@ -46,6 +48,7 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 코드를 간결하게 만들기 위해 시작하는 부분에섯 깔끔하게 정리한 부분이 배워야겠다고 생각했다
+        - 전체적으로 정리가 잘 되어있다는 느낌을 받았습니다
         - <img width="590" height="468" alt="image" src="https://github.com/user-attachments/assets/c13ad4ef-f6eb-47cb-9565-cea9a5374137" />  
 
         - <img width="680" height="386" alt="image" src="https://github.com/user-attachments/assets/1e9693b3-2329-4ea9-8301-9170e969f046" />
